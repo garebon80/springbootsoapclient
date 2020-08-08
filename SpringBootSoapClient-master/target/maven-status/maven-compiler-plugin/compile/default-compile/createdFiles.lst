@@ -1,0 +1,14 @@
+com\srikesh\soap\client\wsdl\Multiply.class
+com\srikesh\soap\client\wsdl\DivideResponse.class
+com\srikesh\soap\api\Request.class
+com\srikesh\soap\client\wsdl\Subtract.class
+com\srikesh\soap\client\wsdl\Add.class
+com\srikesh\soap\client\wsdl\SubtractResponse.class
+com\srikesh\soap\client\wsdl\package-info.class
+com\srikesh\soap\client\wsdl\ObjectFactory.class
+com\srikesh\soap\client\wsdl\Divide.class
+com\srikesh\soap\api\config\SoapConfig.class
+com\srikesh\soap\api\client\SoapClient.class
+com\srikesh\soap\client\wsdl\AddResponse.class
+com\srikesh\soap\client\wsdl\MultiplyResponse.class
+com\srikesh\soap\api\SpringBootSoapWsClientApplication.class
